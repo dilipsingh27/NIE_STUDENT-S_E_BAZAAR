@@ -30,6 +30,22 @@ A step by step series of examples that tell you how to get a development env run
 - Contact the Seller via Email or Contact Details
 
 # Screenshots
+### Sign Up!!
+![Screenshot from 2022-07-15 01-35-30](https://user-images.githubusercontent.com/63536870/179073827-336ef91d-b450-4183-adca-f83a81811ae2.png)
+### Login!!
+![Screenshot from 2022-07-15 01-32-40](https://user-images.githubusercontent.com/63536870/179073994-f319c27a-68a1-43ca-ae2f-fa97a377791c.png)
+### Homepage!!
+![Screenshot from 2022-07-15 01-02-00](https://user-images.githubusercontent.com/63536870/179074340-f9d0d544-0da7-4f39-926e-ef3355f762fb.png)
+### Add Items!!
+![Screenshot from 2022-07-15 01-02-57](https://user-images.githubusercontent.com/63536870/179074490-29bb3b72-fa3a-44ad-9fb1-b8406a116ec5.png)
+### Add Admins & Add User's Email-ID for valid registration!!
+![IMG_20220715_011612](https://user-images.githubusercontent.com/63536870/179074749-414ca386-b2c4-48f5-a2df-87d3beaa21ba.png)
+### Profile Page!!
+![IMG_20220715_011300](https://user-images.githubusercontent.com/63536870/179074821-12c95b8e-fe49-4ee8-8439-af1732e4fb80.png)
+### How It Works!!
+![Screenshot from 2022-07-15 01-02-33](https://user-images.githubusercontent.com/63536870/179074930-893d5186-48d0-4009-aca3-0ebc56cd7421.png)
+### About us!!
+![Screenshot from 2022-07-15 01-03-52](https://user-images.githubusercontent.com/63536870/179074986-c731547d-5679-4505-a8c6-9636181d2140.png)
 
 # TECHNOLOGIES USED
 **FRONTEND**: HTML, CSS, JAVASCRIPT, BOOTSTRAP
