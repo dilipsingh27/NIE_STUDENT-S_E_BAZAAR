@@ -1,11 +1,4 @@
-<!-- <form action="/category/<%=type%>" method="GET" class="form-inline">
-  <div>
-      <input type="text" placeholder="Search Items" name="search" class="form-control">
-      <input type="submit" value="Search" class="btn btn-default">
-  </div>
-</form> -->
-
-<%-include("partials/header",{type}) %>
+<%-include("partials/header",{type:"All"})%>
 
 <%for(let i=product.length-1;i>=0;i--) {%>
   <div class="container py-4 px-5">
@@ -16,12 +9,12 @@
          <td style="width: 70%">
            <table class="table">
     <tbody> 
-      <tr> 
+      <tr>
         <td style="width: 50%">Name</td>
         <td style="width: 50%"><%=product[i].name%></td>
       </tr>
       <tr>
-        <td>Price(in ₹)</td>
+        <td>Price (in ₹)</td>
         <td><%=product[i].price%></td>
       </tr>
       <tr>
