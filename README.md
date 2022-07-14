@@ -29,6 +29,8 @@ A step by step series of examples that tell you how to get a development env run
 - Browse/Search for the items
 - Contact the Seller via Email or Contact Details
 
+# Screenshots
+
 # TECHNOLOGIES USED
 **FRONTEND**: HTML, CSS, JAVASCRIPT, BOOTSTRAP
 
