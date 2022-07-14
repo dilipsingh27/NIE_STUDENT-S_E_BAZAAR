@@ -5,6 +5,30 @@ Every freshers entering college has to face an initial period of hustle where th
 
 This website provides a common platform for the sellers(Seniors) and the buyers(Juniors) where the sellers put up goods for sale or can DONATE goods also. The buyer can find the best price for a particular item. By this, the buyers no longer need to keep moving from Senior to Senior looking for goods which they needs.
 
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development purpose
+## Installing
+A step by step series of examples that tell you how to get a development env running 
+
+# Features
+
+### Admin
+* Admin can add only emaiLId through which a new registration to this Web application can be done 
+* This secure the web application from unwanted fake registrations. Hence, Secure the Personal details of the registered users
+
+### Seller [Seniors]
+- Upload Items
+  - Add description
+  - Add image for the item
+  - Specify expected price or can DONATE as well
+- Manage uploaded items 
+- Mark them as Sold if items are sold
+- Remove items
+
+### Buyer [Juniors/Freshers]
+- Browse/Search for the items
+- Contact the Seller via Email or Contact Details
+
 # TECHNOLOGIES USED
 **FRONTEND**: HTML, CSS, JAVASCRIPT, BOOTSTRAP
 
